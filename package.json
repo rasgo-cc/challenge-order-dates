@@ -1,0 +1,13 @@
+{
+  "name": "order-dates",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  },
+  "dependencies": {}
+}
