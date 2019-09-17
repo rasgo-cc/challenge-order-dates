@@ -30,6 +30,7 @@ const dates = [
 describe("Array", function() {
   describe("Array of dates", function() {
     it("should be sorted from current date (past dates should show up at the end)", function() {
+      // considering now = 2019-09-17
       const expected = [
         "2019-09-21",
         "2019-09-22",
